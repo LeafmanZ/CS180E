@@ -1,0 +1,11 @@
+''' Type your code here. '''
+x1 = int(input())
+divisor = int(input())
+x1 = int(x1/divisor)
+print(x1, end= ' ')
+x1 = int(x1/divisor)
+print(x1, end= ' ')
+x1 = int(x1/divisor)
+print(x1, end= ' ')
+x1 = int(x1/divisor)
+print(x1)
